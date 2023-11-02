@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Web Development & Web Design**
 
-- 👨‍💻 All of my projects are available at [https://naufalnrsmitter20.github.io/portofolio--bootstrap5/](https://naufalnrsmitter20.github.io/portofolio--bootstrap5/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://naufalnrsmitter20.github.io/portofolio--bootstrap5/)
 
-- 📝 I regularly write articles on [https://artikelteknologidansosial.blogspot.com/2023/08/dampak-teknologi-terhadap-kehidupan.html](https://artikelteknologidansosial.blogspot.com/2023/08/dampak-teknologi-terhadap-kehidupan.html)
+- 📝 I regularly write articles on [My Article](https://artikelteknologidansosial.blogspot.com/2023/08/dampak-teknologi-terhadap-kehidupan.html)
 
 - 📫 How to reach me **x3mnaufalnabilramadhan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fW3XV7mM4oU07YSNZt0IxHSZFcPt7tYG/view?usp=sharing](https://drive.google.com/file/d/1fW3XV7mM4oU07YSNZt0IxHSZFcPt7tYG/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1fW3XV7mM4oU07YSNZt0IxHSZFcPt7tYG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
