@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development & Web Design**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://naufalnrsmitter20.github.io/portofolio--bootstrap5/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://xnaufallnr.vercel.app/)
 
 - 📝 I regularly write articles on [My Article](https://artikelteknologidansosial.blogspot.com/2023/08/dampak-teknologi-terhadap-kehidupan.html)
 
