@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development & Web Design**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://xnaufallnr.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](naufalnr.my.moklet.org)
 
 - 📝 I regularly write articles on [My Article](https://artikelteknologidansosial.blogspot.com/2023/08/dampak-teknologi-terhadap-kehidupan.html)
 
