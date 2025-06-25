@@ -5,13 +5,13 @@
 
 - 🔭 I’m Student on [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id/)
 
-- 🌱 I’m currently learning **Web Development & Web Design**
+- 🌱 I’m currently learning **Web Development & Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://naufalnr.my.moklet.org)
 
 - 📝 I regularly write articles on [My Article](https://artikelteknologidansosial.blogspot.com/2023/08/dampak-teknologi-terhadap-kehidupan.html)
 
-- 📫 How to reach me **x3mnaufalnabilramadhan@gmail.com**
+- 📫 How to reach me **naufalnr.32@moklet.org**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1fW3XV7mM4oU07YSNZt0IxHSZFcPt7tYG/view?usp=sharing)
 
