@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **naufalnr.32@moklet.org**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1fW3XV7mM4oU07YSNZt0IxHSZFcPt7tYG/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naufal-nabil-ramadhan-275056286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufal-nabil-ramadhan-275056286" height="30" width="40" /></a>
